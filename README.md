@@ -1,6 +1,6 @@
-<h2>
+ <h2>
 Hi, I'm Enrique Maya!
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7e37d55c-fda0-46cc-9f2e-76228177a8e4/d1iysgs-14e5b9e7-3985-4a85-898d-ead23192f641.gif" width="200">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7e37d55c-fda0-46cc-9f2e-76228177a8e4/d1iysgs-14e5b9e7-3985-4a85-898d-ead23192f641.gif" width="150">
 </h2>
 <br />
 <img src="https://thumbs.gfycat.com/PointlessFrailBetafish-size_restricted.gif" width="400" />
@@ -17,9 +17,8 @@ Hi, I'm Enrique Maya!
 
 ```javascript
 const enrique = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "php"],
-    askMeAbout: ["Web Dev", "Tech", "App Dev", "MMA", "Poetry", "Philosophy"],
+    askMeAbout: ["Web Dev", "Tech", "MMA", "Poetry", "Philosophy"],
     technologies: {
         frontEnd: {
             js: ["Vue", "React"],
@@ -28,8 +27,7 @@ const enrique = {
         backEnd: {
             js: ["node", "express"],
         },
-        databases: ["mongo", "MySql"],
-        misc: ["Firebase"]
+        databases: ["mongo", "MySql", "Firebase"],
     },
 };
 ```
