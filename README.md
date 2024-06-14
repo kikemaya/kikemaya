@@ -7,7 +7,7 @@ Hi, I'm Enrique Maya!
 <br />
 <p>
   <em>
-    Frontend Developer | Web Development Teacher At <a href="https://devf.la/" target="_blank">DEV.F</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    Application Support Analyst | Web Development Teacher | Web developer
   </em>
 </p>
 
