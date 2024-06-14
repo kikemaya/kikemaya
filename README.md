@@ -18,16 +18,17 @@ Hi, I'm Enrique Maya!
 ```javascript
 const enrique = {
     code: ["Javascript", "php"],
-    askMeAbout: ["Web Dev", "Tech", "MMA", "Poetry", "Philosophy"],
+    askMeAbout: ["Web Dev", "Tech", "MMA", "Poetry", "Philosophy", "PC Gaming"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "React"],
-            css: ["SASS", "Bootstrap"]
+            js: ["Vue", "React", "Next"],
+            css: ["SASS", "Bootstrap", "Tailwind"]
         },
         backEnd: {
             js: ["node", "express"],
         },
-        databases: ["mongo", "MySql", "Firebase"],
+        databases: ["mongoDB", "MySql", "Firebase", "postgreSQL"],
+        cloud: "GCP"
     },
 };
 ```
